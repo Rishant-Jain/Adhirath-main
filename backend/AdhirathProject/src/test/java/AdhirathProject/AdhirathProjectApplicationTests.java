@@ -1,10 +1,10 @@
-package com.adhirath.backend;
+package AdhirathProject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackendApplicationTests {
+class AdhirathProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
